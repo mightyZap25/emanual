@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "dc14aed7f715be89",
+    "type": "split",
+    "children": [
+      {
+        "id": "519cdafe8c0e4e62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4781841cd3cf31a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manual_md_file/Export-eee49b76-a66d-4bb4-bf78-14567352c4a6/mightyZAP Total Manager Manual.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "065fd8ccf937af15",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ca7b84284d6fb72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26ab7e0b902e9cba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b77f22bb05e522e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dae41461c5d65269",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f718bfb190aff4e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4602a3daa43b7586",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12881b43b01bbaa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "manual_md_file/Export-eee49b76-a66d-4bb4-bf78-14567352c4a6/mightyZAP Total Manager Manual.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f369ca723a8abf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "manual_md_file/Export-eee49b76-a66d-4bb4-bf78-14567352c4a6/mightyZAP Total Manager Manual.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e671ec27ea6facbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "423658e4086d9ae8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "manual_md_file/Export-eee49b76-a66d-4bb4-bf78-14567352c4a6/mightyZAP Total Manager Manual.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "4781841cd3cf31a8",
+  "lastOpenFiles": [
+    "README.md"
+  ]
+}
